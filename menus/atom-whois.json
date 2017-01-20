@@ -1,0 +1,9 @@
+{
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Whois Lookup",
+            "command": "atom-whois:lookup"
+        }]
+    }]
+}
