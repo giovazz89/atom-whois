@@ -1,5 +1,11 @@
 # atom-whois package
 
-A short description of your package.
+Atom.io editor package to get whois data for the selected text in current editor buffer.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### Activation
+
+Trigger the whois lookup by going to `Packages > Whois Lookup` in your menu, or by typing `Alt + W`
+
+### Example
+
+![Whois lookup example](https://cloud.githubusercontent.com/assets/1449608/22149445/27648b1c-df14-11e6-8064-b9addedad640.gif)
