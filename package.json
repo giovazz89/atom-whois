@@ -1,10 +1,9 @@
 {
   "name": "atom-whois",
   "main": "./lib/atom-whois",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get whois lookup data for selected text in current editor",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-whois:lookup"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
