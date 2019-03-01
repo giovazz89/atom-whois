@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-whois:lookup"
   },
-  "repository": "https://github.com/atom/atom-whois",
+  "repository": "https://github.com/giovazz89/atom-whois",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
